@@ -9,7 +9,8 @@
 
 ## Where can I find output download links? 🤔
 
-![I hope this illustration helps.](https://raw.githubusercontent.com/nostalgiceagle/extract_fw/refs/heads/main/assets/illustration.png)
+![I hope this illustration helps.](https://github.com/nostalgiceagle/Samsung-Firmware-Dumper/raw/refs/heads/main/assets/illustration.png)
+_I hope this illustration helps._
 
 ◆ **More improvements will be added to this repository in the future** 😄  
 ★ **If you find this repository useful, please consider starring it as a token of support**
