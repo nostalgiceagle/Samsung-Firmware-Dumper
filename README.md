@@ -7,6 +7,9 @@
 > - Make sure the firmware download link can be accessed using `wget`, as this tool **cannot** download from unsupported links.
 > - To use this workflow, you will need to fork this repository and run the workflow from your fork.
 
+> [!NOTE]
+> - The files uploaded to gofile.io is not permanent, they are temporary. But they're going to be fine for a week but to be honest, the file will stay there as soon as it gets downloaded time to time.
+
 ## Where can I find output download links? 🤔
 
 ![I hope this illustration helps.](https://github.com/nostalgiceagle/Samsung-Firmware-Dumper/raw/refs/heads/main/assets/illustration.png)
